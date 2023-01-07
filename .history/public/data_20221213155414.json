@@ -1,0 +1,28 @@
+{
+    "title":"table",
+    "users":[
+        {
+            "id":1,
+            "name":"Max"
+        },
+        {
+            "id":2,
+            "name":"Joy"
+        },
+        {
+            "id":3,
+            "name":"Josh"
+        }
+    ],
+    "posts":[
+        {
+            "title":1
+        },
+        {
+            "title":2
+        },
+        {
+            "title":3
+        }
+    ]
+}

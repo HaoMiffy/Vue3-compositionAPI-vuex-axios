@@ -1,4 +1,6 @@
 # takedata
+API 是 public data.json 資料顯示 
+
 
 ## Project setup
 ```
